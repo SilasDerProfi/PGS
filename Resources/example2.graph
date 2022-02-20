@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph>
+   <node id="21201098" positionX="400" positionY="200" identifier="A" />
+   <node id="47530006" positionX="600" positionY="200" identifier="B" />
+   <node id="39567352" positionX="400" positionY="300" identifier="C" />
+   <node id="25675773" positionX="600" positionY="300" identifier="D" />
+   <node id="25116876" positionX="600" positionY="400" identifier="E" />
+   <node id="56592155" positionX="400" positionY="500" identifier="F" />
+   <node id="61374531" positionX="600" positionY="500" identifier="G" />
+   <node id="24725298" positionX="400" positionY="600" identifier="H" />
+   <node id="15499871" positionX="600" positionY="600" identifier="I" />
+   <node id="66471715" positionX="900" positionY="300" identifier="J" />
+   <node id="29755367" positionX="900" positionY="500" identifier="K" />
+   <node id="5281111" positionX="1100" positionY="400" identifier="L" />
+   <edge start="25675773" target="29755367" />
+   <edge start="25675773" target="66471715" />
+   <edge start="61374531" target="29755367" />
+   <edge start="61374531" target="66471715" />
+   <edge start="15499871" target="29755367" />
+   <edge start="15499871" target="66471715" />
+   <edge start="66471715" target="5281111" />
+   <edge start="29755367" target="5281111" />
+   <edge start="47530006" target="66471715" />
+   <edge start="47530006" target="29755367" />
+   <edge start="25116876" target="66471715" />
+   <edge start="25116876" target="29755367" />
+   <edge start="24725298" target="15499871" />
+   <edge start="21201098" target="47530006" />
+   <edge start="56592155" target="61374531" />
+   <edge start="39567352" target="25675773" />
+</graph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph>
+   <node id="29105235" positionX="250" positionY="250" identifier="A" />
+   <node id="44123454" positionX="500" positionY="100" identifier="B" />
+   <node id="60620523" positionX="500" positionY="250" identifier="C" />
+   <node id="34728767" positionX="500" positionY="400" identifier="D" />
+   <node id="8713795" positionX="750" positionY="250" identifier="E" />
+   <node id="11315292" positionX="1000" positionY="400" identifier="F" />
+   <edge start="29105235" target="60620523" />
+   <edge start="60620523" target="8713795" />
+   <edge start="8713795" target="11315292" />
+   <edge start="34728767" target="60620523" />
+   <edge start="34728767" target="29105235" />
+   <edge start="34728767" target="11315292" />
+   <edge start="44123454" target="8713795" />
+   <edge start="44123454" target="29105235" />
+</graph>
